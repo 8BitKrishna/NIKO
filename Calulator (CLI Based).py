@@ -37,17 +37,18 @@ def calculator():
             
             # Ask if user wants to continue
             another_calculation = input("\nDo you want to perform another calculation? (yes/no): ").lower()
-            if another_calculation != "yes":
-                print("Thank you for using the calculator!")
+            if another_calculation == "yes":
+                return calculator()  # Restart the calculator
+            elif another_calculation == "no":
+                print("Thank you for using the calculator. Goodbye!")
                 break
-                
+            else:
+                print("Invalid input! Please enter 'yes' or 'no'.")
+
         except ValueError:
             print("Invalid input! Please enter valid numbers.")
             continue
 
-        else:
-    print("Invalid input! Please enter a choice between 1 and 4.")
-    # Remove the 'continue' here
 
 # Run the calculator
 if __name__ == "__main__":
