@@ -45,6 +45,10 @@ def calculator():
             print("Invalid input! Please enter valid numbers.")
             continue
 
+        else:
+    print("Invalid input! Please enter a choice between 1 and 4.")
+    # Remove the 'continue' here
+
 # Run the calculator
 if __name__ == "__main__":
     calculator()
