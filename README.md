@@ -1,6 +1,6 @@
 # Calculator (CLI based)
 
-> *"This is my first project, only to imply the basics of programming. "
+> "This is my first project, only to imply the basics of programming. "
 
 ---
 
