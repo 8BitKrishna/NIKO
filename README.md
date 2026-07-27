@@ -5,7 +5,7 @@
 ---
 
 ### Technologies I Used 
--  | ** Python:** Used python's basic functions to do basic calculations |
+-  Python: Used python's basic functions to do basic calculations 
 
 ---
 
