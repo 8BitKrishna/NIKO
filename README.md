@@ -1,2 +1,2 @@
 # NIKO
-Perosnal AI assistant
+My Perosnal AI Assistant
