@@ -9,5 +9,12 @@
 
 ---
 
-### PHASE 1 : THE ADDITION 
-- This function adds two or more numbers, the first function I used in my calculator
+### PHASE 1 : THE BEGINNING
+
+ - Calculates all the basic arithmetic functions like :
+   
+ |- Addition - Adds two numbers |
+ |- Subtraction - Subtracts two numbers, also give negative float number |
+ |- Multiplication - Multiplies two numbers |
+ |- Division - Divides two numbers |
+ |- Clear - Clears all the content |
