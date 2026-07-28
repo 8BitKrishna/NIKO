@@ -12,9 +12,12 @@
 ### PHASE 1 : THE BEGINNING
 
  - Calculates all the basic arithmetic functions like :
-   
- |- Addition - Adds two numbers |
- |- Subtraction - Subtracts two numbers, also give negative float number |
- |- Multiplication - Multiplies two numbers |
- |- Division - Divides two numbers |
- |- Clear - Clears all the content |
+
+ - | Functions | What they do |
+| :--- | :--- |
+| **Addition** | Adds two numbers |
+| **Subtraction** | Subtracts two numbers, also give negative float number |
+| **Multiplication** | Multiplies two numbers |
+| **Division** | Divides two numbers |
+| **Clear** | Clears all the content  |
+
